@@ -20,6 +20,7 @@ const Greetings = () => {
     document.documentElement.scrollTop = 0;
     document.scrollingElement.scrollTop = 0;
   })
+
   return ( 
     <Fade top duration={1000} distance="40px">
         <main ref="main">
