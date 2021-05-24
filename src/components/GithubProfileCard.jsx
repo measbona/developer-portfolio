@@ -30,7 +30,7 @@ const GithubProfileCard = ({ prof }) => {
               <SocialLinks />
               <div style={{ display: 'flex', flexDirection: 'column', marginTop: 20 }}>
                 <small className="text-white">
-                  Copyright &copy;{" "}
+                  Designed & Built by &copy;{" "}
                   1hanzla100
                 </small>
                 <small className="text-white"> Modified by measbona </small>
