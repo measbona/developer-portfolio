@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://hanzla.ga"
   },
-  "homepage": "https://measbona.github.io/developer-portfolio/",
+  "homepage": "",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
